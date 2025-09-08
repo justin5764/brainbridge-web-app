@@ -1,8 +1,15 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
+If it's your first time opening this app, run the following command install needed packages:
+
+```bash
+npm install
+```
+
 
 First, run the development server:
+
 
 ```bash
 npm run dev
